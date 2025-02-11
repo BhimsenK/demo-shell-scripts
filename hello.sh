@@ -8,6 +8,9 @@ line
 
 comment
 
+<<comm
+Adding another multi line comment here from dev branch.
+comm
 
 echo "Gabbar: kitne aadmi they"
 echo "Kalia: 2 they sarkar"
